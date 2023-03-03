@@ -1,5 +1,5 @@
-#Name: Rio Simpson
-#Email: simpson.rions@gmail.com
+#Name: Rio
+#Email:
 #Date: Feburary 21st, 2023
 #Program Description:this program gives the ASCII code for a input term and two letters before it
 
