@@ -1,5 +1,5 @@
-#Name: Rio Simpson
-#Email: simpson.rions@gmail.com
+#Name: Rio
+#Email:
 #Date: Feburary 21st, 2023
 #This program takes a user's input as a string and outputs it in 3 different forms
 
