@@ -1,5 +1,5 @@
-#Name: Rio Simpson
-#Email: simpson.rions@gmail.com
+#Name: Rio
+#Email:
 #Date: 02-22-2023
 #Program Description: this program draws a twisting triangle
 import turtle
