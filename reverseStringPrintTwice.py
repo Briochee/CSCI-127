@@ -1,5 +1,5 @@
-#Name: Rio Simpson
-#Email: simpson.rions@gmail.com
+#Name: Rio 
+#Email:
 #Date: 02-27-2023
 #Program Description: this program reverses a string and prints each character twice
 
