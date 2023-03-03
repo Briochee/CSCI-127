@@ -1,5 +1,5 @@
-#Name: Rio Simpson
-#Email: simpson.rions@gmail.com
+#Name: Rio
+#Email:
 #Date: 02-28-2023
 #Program Description: this program takes names from a list and prints them
 
