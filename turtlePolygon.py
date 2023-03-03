@@ -1,5 +1,5 @@
-#Name: Rio Simpson
-#Email: simpson.rions@gmail.com
+#Name: Rio
+#Email:
 #Date: Feburary 5th, 2023
 #This program draws a 15 sided polygon
 
