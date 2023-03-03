@@ -1,5 +1,5 @@
-#Name: Rio Simpson
-#Email: simpson.rions@gmail.com
+#Name: Rio
+#Email: 
 #Date: 02-25-2023
 #Program Description: this program loads an image, displays it, and saves a new image with the green channel removed
 
