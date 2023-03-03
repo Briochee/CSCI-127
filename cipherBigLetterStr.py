@@ -1,5 +1,5 @@
-#Name: Rio Simpson
-#Email: simpson.rions@gmail.com
+#Name: Rio
+#Email: 
 #Date:02-21-2023
 #Program Description: This program shifts the chracters of an inputted phrase
 
