@@ -1,5 +1,5 @@
-#Name: Rio Simpson
-#Email: simpson.rions@gmail.com
+#Name: Rio
+#Email:
 #Date: 02-25-2023
 #Program Description: This program draws a pentagon with turtle stamps
 
