@@ -1,5 +1,5 @@
-#Name: Rio Simpson
-#Email: simpson.rions@gmail.com
+#Name: Rio
+#Email:
 #Date: Feburary 5th, 2023
 #This program prints: "Hello, World!"
 
